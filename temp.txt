@@ -1,0 +1,13 @@
+NY_F
+Styczeñ 32
+Luty 33
+Marzec 41
+Kwiecieñ 52
+Maj 62
+Czerwiec 72
+Lipiec 77
+Sierpieñ 75
+Wrzesieñ 68
+PaŸdziernik 58
+Listopad 47
+Grudzieñ 35
