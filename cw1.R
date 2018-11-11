@@ -1,5 +1,6 @@
 #z1
-rep(c(TRUE,FALSE,TRUE,FALSE), c(3,4,2,5))
+x <- rep(c(TRUE,FALSE,TRUE,FALSE), c(3,4,2,5))
+x
 #z2
 natur <- 1:1000
 natur[seq(2, 1000, by = 2)] <- natur[seq(2, 1000, by = 2)]^(-1)
