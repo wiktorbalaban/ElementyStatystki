@@ -1,3 +1,4 @@
+setwd("j://Desktop/elementy statystyki/ElementyStatystki")
 #z1
 x <- rep(c(TRUE,FALSE,TRUE,FALSE), c(3,4,2,5))
 x
